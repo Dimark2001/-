@@ -1,0 +1,32 @@
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\bin\Debug\Museym.exe.config
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\bin\Debug\Museym.exe
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\bin\Debug\Museym.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\obj\Debug\Museym.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\obj\Debug\Museym.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\obj\Debug\Museym.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\obj\Debug\Museym.exe
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\obj\Debug\Museym.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\obj\Debug\Museym.Form2.resources
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\obj\Debug\Museym.Form4.resources
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\obj\Debug\Museym.Form3.resources
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\obj\Debug\Museym.Guide1.resources
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\obj\Debug\Museym.Guide2.resources
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\obj\Debug\Museym.Guide3.resources
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\obj\Debug\Museym.Guide4.resources
+C:\Users\User\Documents\SharpDevelop Projects\Museym\Museym\obj\Debug\Museym.Form5.resources
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\bin\Debug\Museym.exe.config
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\bin\Debug\Museym.exe
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\bin\Debug\Museym.pdb
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\obj\Debug\Museym.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\obj\Debug\Museym.Form2.resources
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\obj\Debug\Museym.Form3.resources
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\obj\Debug\Museym.Form4.resources
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\obj\Debug\Museym.Form5.resources
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\obj\Debug\Museym.Guide1.resources
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\obj\Debug\Museym.Guide2.resources
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\obj\Debug\Museym.Guide3.resources
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\obj\Debug\Museym.Guide4.resources
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\obj\Debug\Museym.MainForm.resources
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\obj\Debug\Museym.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\obj\Debug\Museym.exe
+C:\Users\User\Desktop\SharpDevelop Projects\Museym Version 1.97(Лучшее что есть)\Museym\obj\Debug\Museym.pdb
